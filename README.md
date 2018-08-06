@@ -1,5 +1,5 @@
 # Util
-Some tips of code
+Some tips of code : 
 the file can help you print log directly.
 
 Each instace can generate a directory with different name ,and directory name including time.
